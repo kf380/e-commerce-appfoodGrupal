@@ -38,7 +38,7 @@ export default function StickyFooter() {
   const classes = useStyles();
 
   return (
-    <Grid cointainer>
+    <Grid container>
     <Grid items lg={12} md={12} xs={12}>
     <div className={classes.root}>
       <footer className={classes.footer}>
