@@ -1,5 +1,6 @@
 # Grupal Project - Fast Food
 
+![comida-rapida](https://user-images.githubusercontent.com/74383139/132262062-48a76d24-97de-48f5-9167-0b70f4379954.png)
 
 <p align="center">
     <img height="400" src="./assets/fast-food.png"/>te
