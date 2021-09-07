@@ -1,60 +1,52 @@
-# Grupal Project - Fast Food
+# URBAN FAST FOOD
 
-![comida-rapida](https://user-images.githubusercontent.com/74383139/132262062-48a76d24-97de-48f5-9167-0b70f4379954.png)
-
-<p align="center">
-    <img height="400" src="./assets/fast-food.png"/>te
-</p>
+ ![imagapp](https://user-images.githubusercontent.com/74383139/132346425-09bf50d6-d3a1-4bd1-9a39-6d15eadc31bf.png)
 
 
-
-## Esta aplicación web está destinada a la gestión de procesos de un e-commerce de comidas rápidas.  
-
-
-### Stack tecnológico:
-
-#### Backend: Node, Express, MongoDB, Mongoose.
-
-#### Frontend: React, Redux, MaterialUI, JavaScript.
-
-### Esta permitirá a los clientes el ingreso y navegación a la misma para ver el catálogo de productos, nombre, imagenes, precios de los mismos. 
-
-#### Los clientes están divididos en dos grupos.
-
-1) Los que navegan en la aplicación para ver los productos ofrecidos.
-2) Los que se registran como "USUARIOS" para acceder a la compra de productos.  
+### Bienvenidos al e-commerce de comidas rapidas
 
 
-#### Administradores.
-#### Los usuarios Administradores podrán gestionar los catálogos de productos y manipular los registros de clientes logeados.
+💻 Para visitarla = {() => https://fervent-bohr-61102b.netlify.app/}  
 
+Usamos las siguientes tecnologías en Javascript:
 
-#
+React | Redux | Node.js | Express.js | MongoDB  | HTML | CSS | MaterialUI 
 
+<p align="left"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://redux.js.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a>
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
+  </a>
+ <a href="https://expressjs.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a>
+   </p>
+   
+   
+   ### Acerca de la aplicacion:
+   
+   Llega un momento que las personas estan cansadas de hacer largas filas o perder su tiempo en la espera para realizar su pedido de comida rapida. Por otro lado, los dueños de distintos locales, estan frustados de que en cada aplicacion que le ofrecen, tienen limitado las categorias y/o tipo de categoria de sus productos.
+   A partir de ahi, nace URBAN FAST FOOD, la aplicacion donde puedes comprar facilmente disfrutando de un tour por la pagina, mirando los ingredientes de cada productos y abonando de una manera simple con MercadoPago.
+ 
+ ### Eres dueño de negocio? 
+  Del otro lado del mostrador, gestiona tu negocio de comidas rapidas desde nuestra plataforma. Crea categorias, tipos de categorias,  gestiona tu stock, gestiona usuarios, consulta tus ventas, entre otras cosas. URBAN FAST FOOD te conecta con tus clientes de una manera única :)
+ 
 
+![imagapp1](https://user-images.githubusercontent.com/74383139/132346595-535665eb-225c-4044-9f4a-674106c5492c.png)
+  
 
-### Nota:
-
-#### Para el uso de la aplicación debes descargar y/o clonar el proyecto.
-
-
-#### - Este proyecto esta dividido en dos carpetas principales: api y client.
-
-
-#### Dentro de la carpeta `api` encontrarán todo lo referido al backend.
-
-
-##### * Para instalar las dependencias debes ejecutar el comando ``npm install``
-##### * Para correr el servidor debes ejecutar el script/comando ``npm start`` 
-##### * Este servidor corre en el puerto:5000
-
-
-
-#### Dentro de la carpeta `client` encontrarán todo lo referido al frontend.
-
-##### * Para instalar las dependencias debes ejecutar el comando ``npm instal``
-##### * Para correr el servidor debes ejecutar el script/comando ``npm start`` 
-##### * Este servidor corre en el puerto:3000
-=======
-
-
+   
